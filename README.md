@@ -9,4 +9,4 @@ Born in 2008
 - 🤔 Tool that i use: Visual Studio Code, Visual Studio Community, XAMPP and probably others in the future.
 - 📫 How to reach me: via email: pduarterafael@gmail.com or discord:notdarkness._
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: i made an intership on a university where i worked on robotics(Arduino and ESP32).
+- ⚡ Fun fact: i made an intership on a university where i worked on robotics(Arduino and ESP32). Im a programmer since 2018 and used to be a support/helper on a game launcher. I always want to learn new things and i give my best to get what i want.
