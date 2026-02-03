@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🤙
 
 Im Darkness! Im studying to be a programmer and i want to make it my job. 
 Born in 2008
